@@ -4,9 +4,9 @@
 
 **Computer Science Student @ University of Waterloo | Full-Stack Developer | AI Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jivesharora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jivesh-arora-4b1751280/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Jivesh2816)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://jivesh-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=netlify)](https://jivesharora.netlify.app/)
 
 </div>
 
@@ -124,7 +124,7 @@ Interactive portfolio showcasing projects, experience, and technical skills.
 - Project showcase
 - Contact integration
 
-[View Repository](https://github.com/Jivesh2816/portfolio-Jivesh-Arora)
+[View Live](https://jivesharora.netlify.app/) | [View Repository](https://github.com/Jivesh2816/portfolio-Jivesh-Arora)
 
 ---
 
@@ -143,7 +143,7 @@ Node.js • Express.js • FastAPI • Flask • REST APIs
 PostgreSQL • MongoDB • Supabase • SQLite
 
 ### Cloud & DevOps
-AWS • Docker • Git • GitHub • Linux • Railway • Vercel
+AWS • Docker • Git • GitHub • Linux • Railway • Vercel • Netlify
 
 ### AI / Data
 LangChain • RAG • FAISS • OpenAI • Gemini • Groq • PyTorch • TensorFlow • PySpark
@@ -169,8 +169,8 @@ LangChain • RAG • FAISS • OpenAI • Gemini • Groq • PyTorch • Tenso
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/jivesharora](https://linkedin.com/in/jivesharora)
-- 🌐 **Portfolio:** [jivesh-portfolio.vercel.app](https://jivesh-portfolio.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/jivesh-arora-4b1751280/](https://www.linkedin.com/in/jivesh-arora-4b1751280/)
+- 🌐 **Portfolio:** [jivesharora.netlify.app](https://jivesharora.netlify.app/)
 - 📧 **Email:** jaarora@uwaterloo.ca
 
 ---
