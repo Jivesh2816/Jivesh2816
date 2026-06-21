@@ -1,81 +1,182 @@
-# 👋 Hey, I'm Jivesh Arora!
+<div align="center">
 
-Full-stack developer passionate about building scalable web applications and solving complex problems with clean code.
+# Hi 👋, I'm Jivesh Arora
 
-## 🚀 What I Do
+**Computer Science Student @ University of Waterloo | Full-Stack Developer | AI Enthusiast**
 
-- **Full-Stack Development** - Building end-to-end applications with React, Node.js, MongoDB
-- **Web Applications** - Creating responsive, user-friendly interfaces
-- **Backend Systems** - Designing robust APIs and database solutions
-- **Problem Solving** - Converting ideas into production-ready code
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jivesharora)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Jivesh2816)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://jivesh-portfolio.vercel.app)
 
-## 💻 Tech Stack
-
-**Frontend**
-- React, React Router, Tailwind CSS, Vite
-- JavaScript (ES6+), HTML5, CSS3
-
-**Backend**
-- Node.js, Express.js
-- MongoDB, Mongoose ODM
-- JWT Authentication, bcrypt, REST APIs
-
-**Tools & Services**
-- Git & GitHub, Vercel, Cloudinary
-- Nodemailer, EmailJS
-- Docker (learning)
-
-## 🎯 Featured Projects
-
-### 1. **Lost & Found Platform**
-A full-stack application connecting people who've lost items with finders.
-- User authentication with JWT
-- Image upload to Cloudinary
-- Real-time search & messaging
-- **Tech**: React, Express, MongoDB, Cloudinary
-- [View Repo](https://github.com/Jivesh2816/Lost-and-found-app-new)
-
-### 2. **OCC Chatbot**
-Intelligent conversational chatbot with NLP capabilities.
-- Real-time chat interface
-- Persistent conversation history
-- Mobile-responsive design
-- **Tech**: React, Node.js, Express
-- [View Repo](https://github.com/Jivesh2816/OCC-CHATBOT)
-
-### 3. **Personal Portfolio**
-Modern portfolio website showcasing my work and skills.
-- Responsive design with Tailwind CSS
-- Fast performance with Vite
-- Contact form integration
-- **Tech**: React, Vite, Tailwind CSS, EmailJS
-- [View Repo](https://github.com/Jivesh2816/portfolio-Jivesh-Arora)
-
-## 📊 GitHub Stats
-
-![Jivesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jivesh2816&show_icons=true&theme=radical)
-
-## 🎓 Currently Learning
-
-- Advanced Node.js patterns
-- Docker & containerization
-- Advanced MongoDB optimization
-- System design principles
-
-## 📫 Get In Touch
-
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn]
-- **Portfolio**: [Your Portfolio URL]
-- **GitHub**: [@Jivesh2816](https://github.com/Jivesh2816)
-
-## 💡 Fun Facts
-
-- Love building things from scratch
-- Coffee enthusiast ☕
-- Always learning new technologies
-- Open to collaborations and freelance work
+</div>
 
 ---
 
-✨ **Always open to exciting projects and collaboration opportunities!**
+# 👋 Hi, I'm Jivesh Arora
+
+🚀 Computer Science student at the University of Waterloo passionate about **Full-Stack Development, AI Applications, Data Engineering, and Scalable Software Systems**.
+
+I enjoy building products that solve real-world problems, from AI-powered chatbots serving thousands of students to full-stack web applications focused on community engagement and social impact.
+
+---
+
+## 💡 About Me
+
+- 🎓 Honours Computer Science (Co-op) @ University of Waterloo
+- 📊 Insight Analyst Intern @ RBC
+- ☁️ AWS Certified Cloud Practitioner
+- 🤖 Interested in AI, Machine Learning, Data Science, and Software Engineering
+- 🌱 Currently learning advanced backend systems, cloud infrastructure, and scalable web architecture
+- 🎯 Goal: Become a Full-Stack / Software Engineer building impactful products at scale
+
+---
+
+## 💼 Experience
+
+### Royal Bank of Canada (RBC)
+
+**Insight Analyst Intern**
+
+- Built automated data quality checks using SQL, Python, and PySpark
+- Validated large-scale datasets containing 10M+ daily records
+- Reduced reporting discrepancies through data reconciliation and quality assurance
+- Developed analytics solutions supporting business stakeholders
+
+### University of Waterloo
+
+#### Off-Campus Community (WUSA)
+
+**Off-Campus Don**
+
+- Support 5,000+ students with housing and campus integration
+- Organize events and community initiatives
+
+#### Statistics Club
+
+**Events Lead**
+
+- Organize technical workshops, competitions, and industry networking events
+- Coordinate collaborations with faculty and professionals
+
+---
+
+## 🛠 Featured Projects
+
+### 🌍 Wanderers
+
+**Tech:** Next.js, TypeScript, Supabase, PostgreSQL, FastAPI, Gemini AI, Google Maps API
+
+A social discovery platform designed to help students connect through real-world experiences.
+
+**Highlights**
+- Secure authentication with Supabase
+- Real-time chat functionality
+- AI-powered event discovery
+- Personalized recommendations using clustering algorithms
+- Location-aware event search
+
+[View Repository](https://github.com/Jivesh2816/Wanderers)
+
+---
+
+### 🤖 OCC Community Chatbot
+
+**Tech:** React, Node.js, Express.js, MongoDB, Gemini API, Groq LLM
+
+AI-powered chatbot built for the Off-Campus Community serving thousands of students.
+
+**Highlights**
+- 170+ FAQ knowledge base
+- Hybrid NLP + LLM architecture
+- Automated student support
+- High uptime deployment on cloud infrastructure
+
+[View Repository](https://github.com/Jivesh2816/OCC-CHATBOT)
+
+---
+
+### 🔎 Lost & Found Platform
+
+**Tech:** React, Node.js, MongoDB, Express.js
+
+A full-stack platform helping students report, search, and recover lost items.
+
+**Features**
+- Authentication & authorization
+- Item posting and management
+- Search and filtering
+- Responsive UI
+- REST API architecture
+
+[View Repository](https://github.com/Jivesh2816/Lost-and-found-app-new)
+
+---
+
+### 💻 Personal Portfolio
+
+**Tech:** React, Vite, Tailwind CSS, Three.js
+
+Interactive portfolio showcasing projects, experience, and technical skills.
+
+**Features**
+- Modern responsive design
+- Interactive UI elements
+- Project showcase
+- Contact integration
+
+[View Repository](https://github.com/Jivesh2816/portfolio-Jivesh-Arora)
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+Python • JavaScript • TypeScript • SQL • C/C++ • R • HTML • CSS
+
+### Frontend
+React • Next.js • Tailwind CSS • Vite
+
+### Backend
+Node.js • Express.js • FastAPI • Flask • REST APIs
+
+### Databases
+PostgreSQL • MongoDB • Supabase • SQLite
+
+### Cloud & DevOps
+AWS • Docker • Git • GitHub • Linux • Railway • Vercel
+
+### AI / Data
+LangChain • RAG • FAISS • OpenAI • Gemini • Groq • PyTorch • TensorFlow • PySpark
+
+---
+
+## 📈 Current Focus
+
+- Building **Wanderers**
+- Learning system design and scalable backend architecture
+- Exploring AI-powered applications and RAG systems
+- Preparing for Software Engineering and Product Engineering internships
+
+---
+
+## 📊 GitHub Stats
+
+![Jivesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jivesh2816&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jivesh2816&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/jivesharora](https://linkedin.com/in/jivesharora)
+- 🌐 **Portfolio:** [jivesh-portfolio.vercel.app](https://jivesh-portfolio.vercel.app)
+- 📧 **Email:** jaarora@uwaterloo.ca
+
+---
+
+<div align="center">
+
+⭐ *Always excited to collaborate on impactful software, AI, and open-source projects.*
+
+</div>
